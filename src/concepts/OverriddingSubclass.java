@@ -1,6 +1,6 @@
 package concepts;
 
-public class OverriddingBase extends OverriddingSuper
+public class OverriddingSubclass extends OverriddingSuper
 {
 	//lower scope to default (compile-time error)
 	void m1()
